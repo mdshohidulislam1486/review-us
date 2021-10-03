@@ -1,0 +1,36 @@
+.home-bg{
+    background-image: url(../../images/homebg.jpg);
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode:luminosity;
+    
+}
+
+.home-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#fff;
+    font-weight: 900;
+}
+.home-logo img{
+    width: 100px;
+}
+
+.course-img img{
+    width:100px;
+    height: 80px;
+    margin:20px 10px 50px;
+    border-radius: 50%;
+    
+}
+.course-img{
+    flex-wrap: wrap;
+}
+
+.btn-rounded{
+    width: 150px;
+    border-radius: 20%;
+}
