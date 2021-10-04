@@ -40,9 +40,9 @@ const Home = () => {
                 </div>
             </div>
         </div>
-      <div className='container m-5'>
+      <div className='container m-5 justify-content-center align-items-center'>
           <h1 className='text-warning text-center text-uppercase mb-5'>Our Features courser </h1>
-        <Row xs={1} md={4} className="g-4">
+        <Row xs={1} md={4} className="g-4 ">
                 {
                     courses.map(course =><HomeCard 
                         key={course.key}

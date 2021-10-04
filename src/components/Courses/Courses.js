@@ -13,7 +13,7 @@ const Courses = () => {
         <div className='course-banner'>
                 <div  className='mx-100'><img src={img} alt="" /></div>
         </div>
-        <div className='row justify-content-center align-items-center mx-auto text-center bg-secondary'>
+        <div className='row justify-content-center align-items-center mx-auto text-center bg-light'>
             <div className='col col-6 col-md-6'>
             <div class="card text-white bg-dark mb-3" >
                 <div class="card-header">Header</div>
