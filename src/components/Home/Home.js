@@ -7,7 +7,7 @@ import toefl from '../../images/toefl.png'
 import ielts from '../../images/ielts.png'
 import sat from '../../images/sat.png'
 import spoken from '../../images/spoken.png'
-import { Button, Card, Col, Row } from 'react-bootstrap';
+import { Button,  Row } from 'react-bootstrap';
 import HomeCard from '../HomeCard/HomeCard';
 
 

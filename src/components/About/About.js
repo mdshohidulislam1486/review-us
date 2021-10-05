@@ -24,15 +24,15 @@ const About = () => {
                 </div>
             </div>
             </div>
-                <div class="main mb-5">
-                    <div class="registation">
+                <div className="main mb-5">
+                    <div className="registation">
                     <h1>Contact us</h1>
                     <div action="">
                         <p><label for="fname">First name:</label><br/><input type="text" name="info" id="name" placeholder="Enter first name"/></p>
                         <p><label for="lname">Last name:</label><br/><input type="text" name="info" id="lname" placeholder="Enter last name"/></p>
                         <p><label for="age">Phone number:</label><br/><input type="number" name="info" id="age" placeholder="Enter phone number"/></p>
                         <p><label for="email">Your email:</label><br/><input type="text" name="info" id="email"placeholder="Enter your email"/></p>
-                        <div class="lan-gen">
+                        <div className="lan-gen">
                         <p>
                         Found us on:
                         <br/>
@@ -48,7 +48,7 @@ const About = () => {
                         <span><label for="hindi"><input type="checkbox" name="language" id="hindi"/></label>GRE</span>
                         </p>
                         </div>
-                        <div class="footer">
+                        <div className="footer">
                         <input type="submit" value="Submit"/>
                         <input type="reset" value="Reset"/>
                         </div>
