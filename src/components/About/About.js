@@ -37,7 +37,7 @@ const About = () => {
                     </div>
                     </div>
                 </div>
-                </body>
+            </body>
         </div>
     );
 };
