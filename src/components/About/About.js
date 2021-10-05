@@ -41,7 +41,7 @@ const About = () => {
                         <span><label for="none"><input type="radio" name="gender" id="none"/>Others</label></span>
                         </p>
                         <p>
-                        Is ther any below course you are interested in
+                        Is ther any below course you are interested in?
                         <br/>
                         <span><label for="english"><input type="checkbox" name="language" id="english"/>IELTS</label></span>
                         <span><label for="bangla"><input type="checkbox" name="language" id="bangla"/></label>SAT</span>
