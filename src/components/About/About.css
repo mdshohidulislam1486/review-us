@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+  }
+  body{
+    background-image:linear-gradient(to left, lightblue, cyan);
+  }
+  .main{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+  }
+  .registation{
+    background-color:rgba(0, 0, 0, .4);
+    border-radius:10px;
+    padding:1em 2em 1em 1em;
+    box-shadow:1px 1px 5px rgba(0, 0, 0, .5);
+  }
+  .registation h1{
+    text-align:center;
+    color:rgba(40,30,30);
+    font-family:cursive;
+  }
+  form{
+    color:#fff;
+    padding:1em;
+    position:relative;
+    
+  }
+  
+  p > input{
+    display:flex;
+    align-items: stretch;
+    width:100%;
+    padding:.6em;
+    border-radius:5px;
+    border:1px solid rgba(0, 0, 0, .3);
+    outline:none;
+    margin:0.5em 1em 0.5em 0;
+    box-shadow:1px 1px 5px rgba(0, 0, 0, .5);
+    
+  }
+  .lan-gen p{
+    padding:.4em 0;
+    
+  }
+  .footer input{
+    padding:.5em 5em;
+    color:white;
+    background:brown;
+    border:1px solid rgba(0, 0, 0, .3);
+    border-radius:3px;
+    box-shadow:1px 1px 5px rgba(0, 0, 0, .5);
+  }
+  .footer{
+    padding:.5em 0;
+  }
+  
+  @media screen and (max-width:700px){
+  .registation{
+    margin:1em;
+    background-color:rgba(255, 255, 255, .6);
+    color:black;
+  }
+    body{
+    background-image:linear-gradient(to left, black, gray);
+  }
+  
+ 
+}

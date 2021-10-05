@@ -1,0 +1,7 @@
+.bg-image{
+    background-image: linear-gradient(to right, rgba(0,0,0,.9), blue);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+
+}

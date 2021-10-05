@@ -41,7 +41,7 @@ const Home = () => {
             </div>
         </div>
       <div className='container m-5 justify-content-center align-items-center'>
-          <h1 className='text-warning text-center text-uppercase mb-5'>Our Features courser </h1>
+          <h1 className='text-warning text-center text-uppercase mb-5'>Our Features courses </h1>
         <Row xs={1} md={4} className="g-4 ">
                 {
                     courses.map(course =><HomeCard 
