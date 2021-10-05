@@ -2,9 +2,9 @@ import React from 'react';
 import { Card, Col,  Button } from 'react-bootstrap';
 
 const HomeCard = (props) => {
-    console.log(props.course)
+
     const {name, img, title, description, price} = props.course
-    console.log(name)
+    
     return (
         
         
