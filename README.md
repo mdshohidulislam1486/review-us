@@ -1,6 +1,6 @@
 # Visit our website
 
-This project was bootstrapped with [Pie coaching center](https://jovial-mestorf-45a59d.netlify.app/).
+[Pie coaching center](https://jovial-mestorf-45a59d.netlify.app/).
 
 # Why should you choose PIE education
 
