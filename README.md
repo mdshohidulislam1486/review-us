@@ -2,11 +2,8 @@
 
 This project was bootstrapped with [Pie coaching center](https://jovial-mestorf-45a59d.netlify.app/).
 
-## Available Scripts
+# Why should you choose PIE education
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* Our goal is to spread Bangladeshi students to all over the world
+* Most of our teacher coach studenst as their side job, because they believe in BD students potential
+* We help our students to apply foreign top universities
