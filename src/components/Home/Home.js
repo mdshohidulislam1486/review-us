@@ -40,15 +40,17 @@ const Home = () => {
                 </div>
             </div>
         </div>
-      <div className='container m-5 justify-content-center align-items-center'>
+      <div className=' m-5'>
           <h1 className='text-light text-center text-uppercase mb-5'>Our Features courses </h1>
-        <Row xs={1} md={4} className="g-4 ">
+         <div className='d-flex justify-content-center align-items-center'>
+         <Row xs={1} md={4} className="g-4 text-center">
                 {
                     courses.map(course =><HomeCard 
                         key={course.key}
                         course={course}></HomeCard>).slice(0, 4)
                 }
             </Row>
+         </div>
       </div>
      </>   
     );
